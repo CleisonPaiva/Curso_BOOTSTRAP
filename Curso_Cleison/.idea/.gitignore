@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\cleison.paiva\Downloads\bootstrap-boas-praticas-no-front-end-f694bc9dd5b267a71124f81eaabe68b1df3fa926\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
